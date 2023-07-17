@@ -39,13 +39,10 @@ const Hero =({titleData,createCampaign}) =>{
      <div className='w-full max-w-xl mb-12 xl:mb-0 xl:pr-16 xl:w-7/12'>
      <h2 className='max-w-lg mb-6 font-sans text-3xl font-bold tracking-tight
      text-white sm:test-5xl sm:leading-none'>
-        FundPrism <br className='hidden md:block'/>
-        Crowd Funding FP
+      CrowdFunding MarketPlace<br className='hidden md:block'/>
      </h2>
          <p className='max-w-xl mb-4 text-base text-gray-200 md:text-lg'>
-         snnj sdvj jasbv sjvb svvbbs dvv hbdvbv ad  ach ba dcj qihw vq waitqb
-         dbdvjiwb wvbjqwv jqw qweebf qhwebwef qweheffbbqw wehib qweheffbbqwqwbj
-         wdbdv.
+         Blockchain crowdfunding can be seen as a way to allow more capital to be donated in a nontraditional way while reducing the need for large-scale facilitators and centralized gatekeepers.
          </p>
          <a href="/"
          aria-label=''
